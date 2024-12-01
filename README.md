@@ -164,8 +164,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 <br />
 <p>
-  And now we are done configure osTicket. I hope this tutorial helped. All that's left is to practice triaging and solving tickets.
+  And just like that, we’ve finished configuring osTicket! I hope this tutorial has been helpful in guiding you through the setup. Now it’s time to dive into the real challenge: practicing how to triage and resolve tickets effectively.
 </p>
 <p>
-  This is a very important skill to have for any help desk specialist, as they are the first line of communication between a company and it's customers when it comes to handling issues regarding a product or service they provide.
+ Mastering this skill is essential for any help desk specialist. Remember, you’re not just solving technical issues—you’re the first point of contact between a company and its customers. How you handle these interactions can shape the entire customer experience, making your role crucial in maintaining trust and satisfaction with the products or services your organization provides.
 </p>
