@@ -94,14 +94,14 @@ This tutorial outlines the post-install configuration of the open-source help de
   Admin Panel -> Agents -> Add New.
 </p>
 <p>
-  Jane Doe:
+  Jane Ouellette:
 </p>
   <img src="https://i.imgur.com/hk2Iwh2.png" height="75%" width="100%" alt="agent one access"/>
 <p>
-  John Doe:
+  John Goode:
 </p>
 <p>
-  <img src="https://i.imgur.com/mYnbAMb.png" height="75%" width="100%" alt="agent two"/>
+  <img src="https://i.imgur.com/QUpVXXH.png" height="75%" width="100%" alt="agent two"/>
   <img src="https://i.imgur.com/j6g5x3V.png" height="75%" width="100%" alt="agent two access"/>
 </p>
 <h3 align="center">Configure Users (customers)</h3>
@@ -135,7 +135,10 @@ This tutorial outlines the post-install configuration of the open-source help de
   Sev-C (8 hours, business hours):
 </p>
 <p>
-  <img src="https://i.imgur.com/kYLCHh8.png" height="75%" width="100%" alt="sev one"/>
+  <img src="https://i.imgur.com/he84aQg.png" height="75%" width="100%" alt="Sev-A"/>
+  <img src="https://i.imgur.com/m6OxsUt.png" height="75%" width="100%" alt="Sev B"/>
+  <img src="https://i.imgur.com/x279K6d.png" height="75%" width="100%" alt="Sev C"/>
+  <img src="https://i.imgur.com/kYLCHh8.png" height="75%" width="100%" alt="all done"/>
   
 </p>
 <br />
